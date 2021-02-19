@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6983c9aaf3e4fdcaf180812199fab7e",
+    "revision": "652ea98b613b93c9a33f5e927ecd77f2",
     "url": "/neostore/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/neostore/static/css/2.6414bb7b.chunk.css"
   },
   {
-    "revision": "2fda64dfe1397dfce2bf",
+    "revision": "7481ca11727c5ebf80d6",
     "url": "/neostore/static/css/main.2f7869c0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/neostore/static/js/2.545f8652.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2fda64dfe1397dfce2bf",
-    "url": "/neostore/static/js/main.5fae2872.chunk.js"
+    "revision": "7481ca11727c5ebf80d6",
+    "url": "/neostore/static/js/main.07a21052.chunk.js"
   },
   {
     "revision": "9d778664b793f633c484",
